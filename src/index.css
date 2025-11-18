@@ -1,0 +1,27 @@
+.table-container {
+    width: 100%;
+    max-width: 600px;
+    margin: 20px auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse; 
+    font-family: Arial, sans-serif;
+}
+
+th, td {
+    padding: 8px 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd; 
+}
+
+th {
+    background-color: #f2f2f2; 
+    color: #333;
+    font-weight: bold;
+}
+
+.striped {
+    background-color: #f1f1f1; 
+}
